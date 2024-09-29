@@ -455,7 +455,6 @@ ALTER TABLE ONLY public.star
 ALTER TABLE ONLY public.star
     ADD CONSTRAINT star_pkey PRIMARY KEY (star_id);
 
-
 --
 -- Name: star fk1; Type: FK CONSTRAINT; Schema: public; Owner: freecodecamp
 --
